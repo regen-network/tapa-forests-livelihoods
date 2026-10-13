@@ -10,7 +10,7 @@ Nine-screen conversation deck for Mark Steer and the Darwin consortium. Open ind
 - Household data is a baseline, not project effect. No avoided-carbon quantity, credit price, investment return or biodiversity uplift is asserted.
 
 ## Assets
-Field photographs: Pete Maxfield / UWE Bristol, supplied with permission by Rebecca Harman. Maps: SADABE / UWE Bristol, supplied by Mark Steer. Photographs optimised to WebP without retaining EXIF. Country geometry: Natural Earth public-domain 1:110m dataset, https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson.
+Field photographs: Pete Maxfield / UWE Bristol, supplied with permission by Rebecca Harman. Homes and rice fields: additional photograph supplied by Rebecca Harman. Maps: SADABE / UWE Bristol, supplied by Mark Steer. Photographs optimised to WebP without retaining EXIF. Country geometry: Natural Earth public-domain 1:110m dataset, https://github.com/nvkelso/natural-earth-vector/blob/master/geojson/ne_110m_admin_0_countries.geojson.
 
 ## Publishing
 Public deployment repository: https://github.com/regen-network/tapa-forests-livelihoods. Only the TAPA deck and its assets are served. The separate private regen-presentations repository retains its gallery copy.
