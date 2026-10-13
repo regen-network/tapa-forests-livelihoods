@@ -4,7 +4,7 @@ Nine-screen conversation deck for Mark Steer and the Darwin consortium. Open ind
 
 ## Content boundaries
 - Protection, agroforestry and targeted restoration are complementary funding conversations; a single agreed pilot is not implied.
-- The supplied MiningSite.jpg is titled “Location of Dynamic Agroforestry Champion Farm”. Its farm marker is outside TAPA; it must not be presented as a mining-site location.
+- The supplied MiningSite.jpg is intended to locate the mine, per Rebecca’s clarification. It has been removed from the landscape slide rather than presented as a champion-farm location.
 - GBP 30,000/year and GBP 7,000/year are separate indicative annual requirements from Mark's October 2026 guidance. The 800 ha refers to programme ambition, not the farm parcel, nor verified contracted area.
 - Team update: drone mapping undertaken; acoustic data beginning; two lemur families radio-collared; LiDAR planned over the next year. These monitoring capabilities do not establish quantified outcomes or credit eligibility.
 - Household data is a baseline, not project effect. No avoided-carbon quantity, credit price, investment return or biodiversity uplift is asserted.
